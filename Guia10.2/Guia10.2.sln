@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncuestasWeb", "EncuestasWeb\EncuestasWeb.csproj", "{EF96F05A-BD28-4E9E-A491-028642E9A2F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncuestasDomain", "EncuestasDomain\EncuestasDomain.csproj", "{EC7ADA86-F3EA-4814-A2B4-8331ED31A4D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{F71A7390-7CE2-4593-8E4E-7AE0EB8C5712}"
+	ProjectSection(SolutionItems) = preProject
+		docs\Readme.md = docs\Readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF96F05A-BD28-4E9E-A491-028642E9A2F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF96F05A-BD28-4E9E-A491-028642E9A2F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF96F05A-BD28-4E9E-A491-028642E9A2F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF96F05A-BD28-4E9E-A491-028642E9A2F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC7ADA86-F3EA-4814-A2B4-8331ED31A4D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC7ADA86-F3EA-4814-A2B4-8331ED31A4D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC7ADA86-F3EA-4814-A2B4-8331ED31A4D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC7ADA86-F3EA-4814-A2B4-8331ED31A4D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31A95A9F-3E5A-4DF3-8B72-8FA209FE7566}
+	EndGlobalSection
+EndGlobal
